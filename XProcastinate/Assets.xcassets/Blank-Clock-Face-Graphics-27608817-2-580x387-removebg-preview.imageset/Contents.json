@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Blank-Clock-Face-Graphics-27608817-2-580x387-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
