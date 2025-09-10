@@ -4,7 +4,7 @@
 
 ---
 
-#Features
+Features
 
 - **Task Management**  
   Add, view, and delete assignments with subject, name, and due date.
@@ -29,7 +29,7 @@
 
 ---
 
-##Why XProcrastinate?
+Why XProcrastinate?
 
 Procrastination is a common challenge for students, often preventing them from reaching their full potential. XProcrastinate uses structured task management, persistent reminders, and motivational tools to help students break the cycle of delay and stay consistent in their studies.
 
